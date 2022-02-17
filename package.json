@@ -18,6 +18,7 @@
   "homepage": "https://github.com/onnanoco/moe-rest-api#readme",
   "dependencies": {
     "express": "^4.17.3",
+    "express-generator": "^4.16.1",
     "web3": "^1.7.0"
   }
 }
