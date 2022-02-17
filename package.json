@@ -1,0 +1,23 @@
+{
+  "name": "moe-rest-api",
+  "version": "1.0.0",
+  "description": "- RESTful API for MOE token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onnanoco/moe-rest-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onnanoco/moe-rest-api/issues"
+  },
+  "homepage": "https://github.com/onnanoco/moe-rest-api#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "web3": "^1.7.0"
+  }
+}
